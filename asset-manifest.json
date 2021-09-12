@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kuants_Assignment/static/css/main.cd74cb20.chunk.css",
+    "main.js": "/Kuants_Assignment/static/js/main.2310a6d4.chunk.js",
+    "main.js.map": "/Kuants_Assignment/static/js/main.2310a6d4.chunk.js.map",
+    "runtime-main.js": "/Kuants_Assignment/static/js/runtime-main.a8328a75.js",
+    "runtime-main.js.map": "/Kuants_Assignment/static/js/runtime-main.a8328a75.js.map",
+    "static/js/2.0f41f8e0.chunk.js": "/Kuants_Assignment/static/js/2.0f41f8e0.chunk.js",
+    "static/js/2.0f41f8e0.chunk.js.map": "/Kuants_Assignment/static/js/2.0f41f8e0.chunk.js.map",
+    "static/js/3.a433ded3.chunk.js": "/Kuants_Assignment/static/js/3.a433ded3.chunk.js",
+    "static/js/3.a433ded3.chunk.js.map": "/Kuants_Assignment/static/js/3.a433ded3.chunk.js.map",
+    "index.html": "/Kuants_Assignment/index.html",
+    "static/css/main.cd74cb20.chunk.css.map": "/Kuants_Assignment/static/css/main.cd74cb20.chunk.css.map",
+    "static/js/2.0f41f8e0.chunk.js.LICENSE.txt": "/Kuants_Assignment/static/js/2.0f41f8e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8328a75.js",
+    "static/js/2.0f41f8e0.chunk.js",
+    "static/css/main.cd74cb20.chunk.css",
+    "static/js/main.2310a6d4.chunk.js"
+  ]
+}
